@@ -159,7 +159,7 @@ Example:
 Game starting......
 
 Player A attacks Player B
-Player B health 100 reduced to  : 100
+Player B health 100 reduced to 100: No reduction
 Damage is : 0
 -------------------------------------------
 Player B attacks Player A
@@ -167,7 +167,7 @@ Player A health 50 reduced to  : 40
 Damage is : 10
 -------------------------------------------
 Player A attacks Player B
-Player B health 100 reduced to  : 100
+Player B health 100 reuced to 100 No reuction
 Damage is : 0
 -------------------------------------------
 Player B attacks Player A
@@ -179,15 +179,15 @@ Player B health 100 reduced to  : 80
 Damage is : 20
 -------------------------------------------
 Player B attacks Player A
-Player A health 30 reduced to  : 30
+Player A health 30 reduced to 30 : No Reduction 
 Damage is : 0
 -------------------------------------------
 Player A attacks Player B
-Player B health 80 reduced to  : 80
+Player B health 80 reduced to 80 : No Reduction
 Damage is : 0
 -------------------------------------------
 Player B attacks Player A
-Player A health 30 reduced to  : 30
+Player A health 30 reduced to 30 :No reduction
 Damage is : 0
 -------------------------------------------
 Player A attacks Player B
@@ -195,7 +195,7 @@ Player B health 80 reduced to  : 50
 Damage is : 30
 -------------------------------------------
 Player B attacks Player A
-Player A health 30 reduced to  : 30
+Player A health 30 reduced to 30 :No reduction
 Damage is : 0
 -------------------------------------------
 Player A attacks Player B
